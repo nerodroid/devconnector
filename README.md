@@ -1,3 +1,3 @@
 # devconnector
 
-This is a API and Front end App for social media network. written using MERN stack.
+This is a backend API and a Front end App for a social media network. written using MERN stack.
